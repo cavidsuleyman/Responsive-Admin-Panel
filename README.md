@@ -9,7 +9,7 @@
 Hello, welcome to this lesson. Today I create with html, css and js file for Responsive-Admin-Panel. I use here html, css and js tags. 
 ## ## RULES OF USE
 
-> **STEP-1:** `https://github.com/cavidsuleyman/Basic-Website-Template.git` <br/>
+> **STEP-1:** `https://github.com/cavidsuleyman/Responsive-Admin-Panel.git` <br/>
 > **STEP-2:**  enter the `Responsive-Admin-Panel` folder that appears <br/>
 > **STEP-3:**  open the folder you are in in a text editor <br/>
 > **STEP-4:**  run the  all the`index.html` files in the main folder <br/>
